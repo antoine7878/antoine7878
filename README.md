@@ -45,9 +45,25 @@
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 </p>
 
+<h3 align="center">Projects highlight:</h3>
+
+| Project | Language | Themes | Description |
+|-|-|-|-|
+| [**ft_printf**](https://github.com/antoine7878/ft_printf) | C | libc · formatting | Reimplementation of the standard `printf` function |
+| [**fdf**](https://github.com/antoine7878/fdf) | C | graphics · wireframe · 3D | A 3D wireframe graphic renderer |
+| [**push_swap**](https://github.com/antoine7878/push_swap) | C | algorithms · stack · sorting | Optimizes sorting of integer stacks using limited operations |
+| [**philosophers**](https://github.com/antoine7878/Philosophers) | C | concurrency · pthreads | Dining Philosophers problem using threads |
+| [**minishell**](https://github.com/antoine7878/minishell) | C | shell · UNIX | A minimal Unix shell interpreter |
+| [**miniRT**](https://github.com/antoine7878/miniRT) | C | graphics · ray‑tracing | A Ray‑tracer rendering engine |
+| [**webserv**](https://github.com/antoine7878/webserv) | C++ | HTTP · select · sokcet | A non blocking and single threaded HTTP server |
+| [**ft_transcendence**](https://github.com/antoine7878/ft_transcendence) | Typescript | Web · websocket · Pong | Web based Pong game with stats and social features |
+| [**libasm**](https://github.com/antoine7878/libasm) | x86-64 NASM | low‑level · x86‑64 | Assembly‑level reimplementation of common C library functions |
+| [**Learn2Slither**](https://github.com/antoine7878/Learn2Slither) | Python | Reinforcement learning · Q-table | Q-Learning implementation of snake playing agent |
+| [**Multilayer-perceptron**](https://github.com/antoine7878/Multilayer-perceptron) | Python | Neural network · Machine Learning | Implementation of Dense Neural Nework form stratch |
+| [**Leaffliction**](https://github.com/antoine7878/Leaffliction) | Python | Machine Learning · Computer Vision | Leaves deases recognition and classification |
+
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=antoine7878&show_icons=true&locale=en&layout=compact&theme=dark" alt="antoine7878" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=antoine7878&show_icons=true&locale=en&theme=dark" alt="antoine7878" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=antoine7878&theme=dark" alt="antoine7878" /></p>
-
