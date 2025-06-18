@@ -61,6 +61,7 @@
 | [**Learn2Slither**](https://github.com/antoine7878/Learn2Slither) | Python | Reinforcement learning · Q-table | Q-Learning implementation of snake playing agent |
 | [**Multilayer-perceptron**](https://github.com/antoine7878/Multilayer-perceptron) | Python | Neural network · Machine Learning | Implementation of Dense Neural Nework form stratch |
 | [**Leaffliction**](https://github.com/antoine7878/Leaffliction) | Python | Machine Learning · Computer Vision | Leaves deases recognition and classification |
+| [**N-Puzzle**](https://github.com/antoine7878/N-Puzzle) | Python | Data structures · Algorithm | Sliding puzzle A* solver |
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=antoine7878&show_icons=true&locale=en&layout=compact&theme=dark" alt="antoine7878" /></p>
 
