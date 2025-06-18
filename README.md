@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Antoine</h1>
 <h3 align="center">A passionate Software and Data Science student at 42 Paris</h3>
 
-- 🔭 I’m currently working on **Leaffliction**
+- 🔭 I’m currently working on **N-Puzzle**
 
-- 🌱 I’m currently learning **Datascience, ML/AI**
-
-- 👨‍💻 All of my projects are available at [https://github.com/antoine7878](https://github.com/antoine7878)
+- 🌱 I’m currently learning **Rust and Algorithms**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/antoine-le-tellier-a2872a116/](https://www.linkedin.com/in/antoine-le-tellier-a2872a116/)
 
