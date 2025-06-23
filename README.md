@@ -64,5 +64,3 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=antoine7878&show_icons=true&locale=en&layout=compact&theme=dark" alt="antoine7878" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=antoine7878&show_icons=true&locale=en&theme=dark" alt="antoine7878" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=antoine7878&theme=dark" alt="antoine7878" /></p>
