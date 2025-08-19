@@ -22,7 +22,7 @@
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 </p>
 <p align="center">
-<a href="https://ocaml.org/" target="_blank" rel="noreferrer"> <img src="https://images.icon-icons.com/2148/PNG/512/ocaml_icon_132142.png" alt="c" width="40" height="40"/> </a>
+<a href="https://ocaml.org/" target="_blank" rel="noreferrer"> <img src="https://ocaml.org/_/MWIyY2ZmMWM5YzdkYWNmYWI4NGQ0MDBjOGFiZTYxOTg/ocaml_org_social_media.png" alt="c" width="40" height="40"/> </a>
 <a href="https://blog.ansi.org/ansi/c-programming-language-standard-iso-iec-9899-2024/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a>
