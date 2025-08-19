@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Antoine</h1>
 <h3 align="center">A passionate Software and Data Science student at 42 Paris</h3>
 
-- 🔭 I’m currently working on **N-Puzzle**
+- 🔭 I’m currently working on **OCaml**
 
-- 🌱 I’m currently learning **Rust and Algorithms**
+- 🌱 I’m currently learning **Ocaml**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/antoine-le-tellier-a2872a116/](https://www.linkedin.com/in/antoine-le-tellier-a2872a116/)
 
@@ -49,7 +49,6 @@
 |-|-|-|-|
 | [**ft_printf**](https://github.com/antoine7878/ft_printf) | C | libc · formatting | Reimplementation of the standard `printf` function |
 | [**fdf**](https://github.com/antoine7878/fdf) | C | graphics · wireframe · 3D | A 3D wireframe graphic renderer |
-| [**push_swap**](https://github.com/antoine7878/push_swap) | C | algorithms · stack · sorting | Optimizes sorting of integer stacks using limited operations |
 | [**philosophers**](https://github.com/antoine7878/Philosophers) | C | concurrency · pthreads | Dining Philosophers problem using threads |
 | [**minishell**](https://github.com/antoine7878/minishell) | C | shell · UNIX | A minimal Unix shell interpreter |
 | [**miniRT**](https://github.com/antoine7878/miniRT) | C | graphics · ray‑tracing | A Ray‑tracer rendering engine |
@@ -60,5 +59,6 @@
 | [**Multilayer-perceptron**](https://github.com/antoine7878/Multilayer-perceptron) | Python | Neural network · Machine Learning | Implementation of Dense Neural Nework form stratch |
 | [**Leaffliction**](https://github.com/antoine7878/Leaffliction) | Python | Machine Learning · Computer Vision | Leaves deases recognition and classification |
 | [**N-Puzzle**](https://github.com/antoine7878/N-Puzzle) | Python | Data structures · Algorithm | Sliding puzzle A* solver |
+| [**Computorv2**](https://github.com/antoine7878/computorv2) | Ocaml | Parsing · AST | Math interpreter |
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=antoine7878&show_icons=true&locale=en&layout=compact&theme=dark" alt="antoine7878" /></p>
