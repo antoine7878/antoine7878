@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Antoine</h1>
 <h3 align="center">A passionate Software and Data Science student at 42 Paris</h3>
 
-- 🔭 I’m currently working on **OCaml**
+- 🔭 I’m currently working on **Kalman filter**
 
-- 🌱 I’m currently learning **Ocaml**
+- 🌱 I’m currently learning **Ocaml and Rust**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/antoine-le-tellier-a2872a116/](https://www.linkedin.com/in/antoine-le-tellier-a2872a116/)
 
