@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Kalman filter**
 
-- 🌱 I’m currently learning **Ocaml and Rust**
+- 🌱 I’m currently learning **OCaml and Rust**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/antoine-le-tellier-a2872a116/](https://www.linkedin.com/in/antoine-le-tellier-a2872a116/)
 
