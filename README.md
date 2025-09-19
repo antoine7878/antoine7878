@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Antoine</h1>
 <h3 align="center">A passionate Software and Data Science student at 42 Paris</h3>
 
-- 🔭 I’m currently working on **Kalman filter**
+- 🔭 I’m currently working at **Padam Mobility**
 
 - 🌱 I’m currently learning **OCaml and Rust**
 
