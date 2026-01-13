@@ -53,5 +53,3 @@
 | [**webserv**](https://github.com/antoine7878/webserv) | C++ | HTTP · select · sokcet | A non blocking and single threaded HTTP server |
 | [**miniRT**](https://github.com/antoine7878/miniRT) | C | graphics · ray‑tracing | A Ray‑tracer rendering engine |
 | [**minishell**](https://github.com/antoine7878/minishell) | C | shell · UNIX | A minimal Unix shell interpreter |
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=antoine7878&show_icons=true&locale=en&layout=compact&theme=dark" alt="antoine7878" /></p>
