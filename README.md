@@ -48,7 +48,7 @@
 | [**Multilayer-perceptron**](https://github.com/antoine7878/Multilayer-perceptron) | Python | Neural network | Implementation of Dense Neural Nework form stratch |
 | [**Learn2Slither**](https://github.com/antoine7878/Learn2Slither) | Python | Reinforcement learning | Q-Learning implementation of snake playing agent |
 | [**libasm**](https://github.com/antoine7878/libasm) | x86-64 NASM | low‑level · x86‑64 | Assembly‑level reimplementation of common C library functions |
-| [**ft_transcendence**](https://github.com/antoine7878/ft_transcendence) | Typescript | Web · websocket · Pong | Web based Pong game with stats and social features |
+| [**ft_transcendence**](https://github.com/antoine7878/ft_transcendence) | Typescript | Web · Pong | Web based Pong game with stats and social features |
 | [**webserv**](https://github.com/antoine7878/webserv) | C++ | HTTP · select · sokcet | A non blocking and single threaded HTTP server |
 | [**miniRT**](https://github.com/antoine7878/miniRT) | C | graphics · ray‑tracing | A Ray‑tracer rendering engine |
 | [**minishell**](https://github.com/antoine7878/minishell) | C | shell · UNIX | A minimal Unix shell interpreter |
