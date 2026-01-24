@@ -45,8 +45,8 @@
 | [**Computorv2**](https://github.com/antoine7878/computorv2) | Ocaml | Parsing · AST | Math interpreter |
 | [**N-Puzzle**](https://github.com/antoine7878/N-Puzzle) | Python | Data structures · Algorithm | Sliding puzzle A* solver |
 | [**Leaffliction**](https://github.com/antoine7878/Leaffliction) | Python | Machine Learning · Computer Vision | Leaves deases recognition and classification |
-| [**Multilayer-perceptron**](https://github.com/antoine7878/Multilayer-perceptron) | Python | Neural network · Machine Learning | Implementation of Dense Neural Nework form stratch |
-| [**Learn2Slither**](https://github.com/antoine7878/Learn2Slither) | Python | Reinforcement learning · Q-table | Q-Learning implementation of snake playing agent |
+| [**Multilayer-perceptron**](https://github.com/antoine7878/Multilayer-perceptron) | Python | Neural network | Implementation of Dense Neural Nework form stratch |
+| [**Learn2Slither**](https://github.com/antoine7878/Learn2Slither) | Python | Reinforcement learning | Q-Learning implementation of snake playing agent |
 | [**libasm**](https://github.com/antoine7878/libasm) | x86-64 NASM | low‑level · x86‑64 | Assembly‑level reimplementation of common C library functions |
 | [**ft_transcendence**](https://github.com/antoine7878/ft_transcendence) | Typescript | Web · websocket · Pong | Web based Pong game with stats and social features |
 | [**webserv**](https://github.com/antoine7878/webserv) | C++ | HTTP · select · sokcet | A non blocking and single threaded HTTP server |
