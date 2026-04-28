@@ -11,6 +11,7 @@
 
 | Project | Language | Themes | Description |
 |-|-|-|-|
+| [**ft_lex**](https://github.com/antoine7878/ft_lex) | Rust - C | Regex · Parser generator | POSIX lex in Rust |
 | [**ft_ping**](https://github.com/antoine7878/ft_ping) | C | Network · ICMP | Inetutils 2.0 ping inspired |
 | [**ready-set-boole**](https://github.com/antoine7878/ready-set-boole) | Rust | Boolean algebra | Boolean algebra and tree manipulation |
 | [**Kalman**](https://github.com/antoine7878/ft_kalman) | Rust | Math · GUI | 3d Kalman filter with gui dashboard |
