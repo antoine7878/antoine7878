@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Antoine</h1>
 <h3 align="center">A passionate Software Engineer student at 42 Paris</h3>
 
-- 🔭 I’m currently working at **Qubit Pharmaceuticals**
+- 🔭 I’m currently working at ****
 
-- 🌱 I’m currently learning **Rust and C++**
+- 🌱 I’m currently learning **C in Rust**
 
 - 📄 Learn more about my experiences [https://www.linkedin.com/in/antoine-le-tellier-a2872a116/](https://www.linkedin.com/in/antoine-le-tellier-a2872a116/)
 
