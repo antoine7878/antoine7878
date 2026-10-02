@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at Ecovamed
 
-- 🌱 I’m currently learning **C in Rust**
+- 🌱 I’m currently learning **Azure**
 
 - 📄 Learn more about my experiences [https://www.linkedin.com/in/antoine-le-tellier-a2872a116/](https://www.linkedin.com/in/antoine-le-tellier-a2872a116/)
 
@@ -11,6 +11,7 @@
 
 | Project | Language | Themes | Description |
 |-|-|-|-|
+| [**C**](https://github.com/antoine7878/cc1) | Rust - C - LLVM | Compiler | C compiler LLVM frontend |
 | [**B**](https://github.com/antoine7878/B) | B - C - ASM | Compiler | B compiler |
 | [**ft_lex**](https://github.com/antoine7878/ft_lex) | Rust - C | Regex · Parser generator | POSIX lex in Rust |
 | [**ft_ping**](https://github.com/antoine7878/ft_ping) | C | Network · ICMP | Inetutils 2.0 ping inspired |
