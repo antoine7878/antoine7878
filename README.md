@@ -11,7 +11,7 @@
 
 | Project | Language | Themes | Description |
 |-|-|-|-|
-| [**C**](https://github.com/antoine7878/cc1) | Rust - C - LLVM | Compiler | C compiler LLVM frontend |
+| [**C**](https://github.com/antoine7878/cc1) | Rust - C - LLVM | Compiler | C compiler front-end for LLVM |
 | [**B**](https://github.com/antoine7878/B) | B - C - ASM | Compiler | B compiler |
 | [**ft_lex**](https://github.com/antoine7878/ft_lex) | Rust - C | Regex · Parser generator | POSIX lex in Rust |
 | [**ft_ping**](https://github.com/antoine7878/ft_ping) | C | Network · ICMP | Inetutils 2.0 ping inspired |
