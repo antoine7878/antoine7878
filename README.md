@@ -12,9 +12,9 @@
 | Project | Language | Themes | Description |
 |-|-|-|-|
 | [**C**](https://github.com/antoine7878/cc1) | Rust - C - LLVM | Compiler | C compiler front-end for LLVM |
+| [**B**](https://github.com/antoine7878/B) | B - C - ASM | Compiler | B compiler |
 | [**ft_yacc**](https://github.com/antoine7878/ft_yacc) | Rust - C | LALR(1) · Parser generator | POSIX yacc in Rust |
 | [**ft_lex**](https://github.com/antoine7878/ft_lex) | Rust - C | Regex · Parser generator | POSIX lex in Rust |
-| [**B**](https://github.com/antoine7878/B) | B - C - ASM | Compiler | B compiler |
 | [**ft_ping**](https://github.com/antoine7878/ft_ping) | C | Network · ICMP | Inetutils 2.0 ping inspired |
 | [**ready-set-boole**](https://github.com/antoine7878/ready-set-boole) | Rust | Boolean algebra | Boolean algebra and tree manipulation |
 | [**Kalman**](https://github.com/antoine7878/ft_kalman) | Rust | Math · GUI | 3d Kalman filter with gui dashboard |
