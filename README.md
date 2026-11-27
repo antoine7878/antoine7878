@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working at Ecovamed
 
-- 🌱 I’m currently learning **Azure**
-
 - 📄 Learn more about my experiences [https://www.linkedin.com/in/antoine-le-tellier-a2872a116/](https://www.linkedin.com/in/antoine-le-tellier-a2872a116/)
 
 <h3 align="center">Projects highlight:</h3>
