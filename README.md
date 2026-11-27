@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Software Engineer student and Chemist</h3>
 
 - 🔭 I’m currently working at Ecovamed
+
 - 📄 Learn more about my experiences [https://www.linkedin.com/in/antoine-le-tellier-a2872a116/](https://www.linkedin.com/in/antoine-le-tellier-a2872a116/)
 
 <h3 align="center">Projects highlight:</h3>
