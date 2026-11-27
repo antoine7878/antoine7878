@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Software Engineer student and Chemist</h3>
 
 - 🔭 I’m currently working at Ecovamed
+- 📄 Learn more about my experiences [https://www.linkedin.com/in/antoine-le-tellier-a2872a116/](https://www.linkedin.com/in/antoine-le-tellier-a2872a116/)
 
 <h3 align="center">Projects highlight:</h3>
 
@@ -20,5 +21,3 @@
 | [**webserv**](https://github.com/antoine7878/webserv) | C++ | HTTP protocol | A non blocking and single threaded HTTP server |
 | [**miniRT**](https://github.com/antoine7878/miniRT) | C | Graphics · Ray‑tracing | A Ray‑tracer rendering engine |
 | [**minishell**](https://github.com/antoine7878/minishell) | C | Shell · UNIX | A minimal Unix shell interpreter |
-
-- 📄 Learn more about my experiences [https://www.linkedin.com/in/antoine-le-tellier-a2872a116/](https://www.linkedin.com/in/antoine-le-tellier-a2872a116/)
