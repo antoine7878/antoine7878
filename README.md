@@ -15,10 +15,7 @@
 | [**ft_lex**](https://github.com/antoine7878/ft_lex) | Rust - C | Regex · Parser generator | POSIX lex in Rust |
 | [**ft_ping**](https://github.com/antoine7878/ft_ping) | C | Network · ICMP | Inetutils 2.0 ping inspired |
 | [**Kalman**](https://github.com/antoine7878/ft_kalman) | Rust | Math · GUI | 3d Kalman filter with gui dashboard |
-| [**Matrix**](https://github.com/antoine7878/matrix) | Rust | Linear algebra | Matrix calculation library |
-| [**N-Puzzle**](https://github.com/antoine7878/N-Puzzle) | Python | DSA | Sliding puzzle A* solver |
 | [**Multilayer-perceptron**](https://github.com/antoine7878/Multilayer-perceptron) | Python | Neural network | Implementation of Dense Neural Nework form stratch |
-| [**ft_transcendence**](https://github.com/antoine7878/ft_transcendence) | Typescript | Web · Pong | Web based Pong game with stats and social features |
 | [**webserv**](https://github.com/antoine7878/webserv) | C++ | HTTP protocol | A non blocking and single threaded HTTP server |
 | [**miniRT**](https://github.com/antoine7878/miniRT) | C | Graphics · Ray‑tracing | A Ray‑tracer rendering engine |
 | [**minishell**](https://github.com/antoine7878/minishell) | C | Shell · UNIX | A minimal Unix shell interpreter |
