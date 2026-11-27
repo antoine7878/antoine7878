@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Antoine</h1>
-<h3 align="center">A passionate Software Engineer student at 42 Paris</h3>
+<h3 align="center">A passionate Software Engineer student and Chemist</h3>
 
 - 🔭 I’m currently working at Ecovamed
 
